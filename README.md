@@ -2,7 +2,7 @@
 
 Schooner Chess by D Sceviour
 
-Schooner1.4_64.exe
+Schooner1.4.1_64.exe
 
 - WinBoard compatible
 - 64 bit
@@ -15,3 +15,10 @@ Schooner1.4_64.exe
 - No endgame table base support
 
 From a command line type "help" for the engine commands.
+
+
+8/20/15 Changes:
+
+1. fixed WARNING ERR bug for polyglot book
+2. improved xboard force commands
+3. added sc.ini file for hash and book
